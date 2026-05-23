@@ -1,2 +1,9 @@
-# web-development-learning
-HTML, CSS and beginner web development experiments.
+# Web Development Learning
+
+Learning HTML and CSS through beginner projects.
+
+Topics:
+- HTML structure
+- Buttons
+- Styling
+- Layout basics
